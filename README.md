@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jhon
 
-<!--
-**JhonMarrocos/JhonMarrocos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Python em formação, apaixonado por tecnologia e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou construindo meu portfólio através de projetos práticos envolvendo autenticação de usuários, manipulação de arquivos, persistência de dados e automação.
+
+## 🚀 Tecnologias
+
+- Python
+- Git & GitHub
+- JSON
+- Lógica de Programação
+- SQL (em aprendizado)
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade de estágio em desenvolvimento de software e continuar evoluindo como profissional da área de tecnologia.
+
+📚 Aprendizado contínuo | 💡 Projetos práticos | 🚀 Evolução constante
