@@ -34,6 +34,14 @@ Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonMarrocos/JhonMarrocos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonMarrocos/JhonMarrocos/output/github-contribution-grid-snake.svg">
+    <img alt="Jogo Snake nos Commits" src="https://raw.githubusercontent.com/JhonMarrocos/JhonMarrocos/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🌐 Conecte-se Comigo
