@@ -1,39 +1,48 @@
-# Olá! Eu sou o Jhon 👋
+# Olá, eu sou o Jhon Marrocos! 👋
 
-## 👨‍💻 Sobre
+### 💻 Desenvolvedor Python | Em formação! | Apaixonado por Tecnologia.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Python em formação, apaixonado por tecnologia.
-- 🚀 Atualmente estou construindo meu portfólio por meio de projetos práticos e aprimorando minha lógica de programação.
-
-## 🚀 Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software**, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como profissional da área de tecnologia.
+Busco minha primeira oportunidade de **estágio em Desenvolvimento de Software** ou áreas correlatas de TI, onde eu possa aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como profissional da área de tecnologia.
 
 ---
 
-<div align="center">
+### 📌 Sobre Mim
 
-📚 Aprendizado contínuo • 💡 Projetos práticos • 🚀 Evolução constante
+- 🔭 **Atualmente trabalhando em:** Projetos práticos para meu portfólio e aprimorando minha lógica de programação.
+- 🌱 **Estudando no momento:** Análise e Desenvolvimento de Sistemas.
 
-<br><br>
+---
 
-<a href="https://www.instagram.com/jhon_marrocos" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+### 🛠️ Tecnologias e Ferramentas
 
-<a href="mailto:jhonmarrokin@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" alt="Python" />
+  <img src="https://cdn.simpleicons.org/git/FF5A00" height="50" alt="Git" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL" />
+</p>
 
-<a href="https://www.linkedin.com/in/jonathas-marrocos/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+---
 
-</div>
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JhonMarrocos&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<p>
+  <a href="https://www.linkedin.com/in/jonathas-marrocos" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="45" width="45" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhonmarrokin@hotmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/maildotru/0078D4" height="45" width="45" alt="Hotmail" />
+  </a>
+</p>
